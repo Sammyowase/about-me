@@ -1,4 +1,4 @@
-# VigoPlace Assignment
+# VigoPlace Assignment One
 
 A simple Express.js backend application built with TypeScript.
 
